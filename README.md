@@ -1,7 +1,7 @@
 # root_traits
 Data and R code from the root traits project at the Morton Arboretum. September 2021 - September 2022
 
-Data_files: 
+## Data_files: 
 This folder has all of my spreadsheets that I used for my analyses. Below is a description of each file/folder.
 
 OUwie_data: This folder has our trait data for a specific trait, organized in the following format which is required to be the input for OUwie: species, func_group, trait
@@ -30,7 +30,7 @@ Species_list: this CSV file is a list of all of the individuals that I actually 
 
 Species_with_tap_roots: a list of species in our study that had tap roots.
 
-R_scripts
+## R_scripts
 OUWie_scripts: This folder contains the different scripts that were used to run OUwie on the functional groups.
 
 Boxplots: a script to make box plots of our different traits by functional group (SRL, RTD, diameter).
