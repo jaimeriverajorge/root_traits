@@ -1,0 +1,13 @@
+Trait,Lambda,P-val
+diameter,0.806842425,1.37E-11
+SRL,0.611645156,1.12E-06
+RTD,0.898296775,2.47E-11
+SLA,0.636915238,2.46E-09
+RDMC,0.719384696,5.12E-13
+total_length,0.919682351,2.07E-12
+branching_intensity,0.903605254,6.55E-22
+total_volume,0.905653302,2.15E-07
+root_shoot_ratio,0.708362248,6.06E-06
+above_to_below_scan,0.502893922,0.00788263
+above_to_below_total,0.902572113,1.03E-06
+N,0.560594,7.16E-09
